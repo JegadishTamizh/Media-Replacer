@@ -37,5 +37,5 @@ if __name__ == "__main__" :
         plugins=plugins,
         parse_mode="html"
     )
-    Config.AUTH_USERS.add(677799710)
+    Config.AUTH_USERS.add(926195542)
     app.run()
